@@ -72,9 +72,9 @@ Matplotlib and Seaborn are used to create bar charts, pie charts, and heatmaps f
 ### 1] Install dependencies:
 pip install pandas mysql-connector-python matplotlib seaborn
 
-### 2] Set up MySQL database and import CSV data using the script.
+### 2] Set up MySQL database and import CSV data using the script csv-to-sql.ipynb .
 
-### 3] Run Jupyter Notebook for analysis and visualization.
+### 3] Run Jupyter Notebook for analysis and visualization python+sql_ecommerce.ipynb .
 
 ## Insights Derived
 Most customers are concentrated in a few major cities.
