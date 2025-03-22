@@ -1,6 +1,13 @@
 # E-commerce-Data-Analytics-using-SQL-and-Python
 This project explores an e-commerce dataset using SQL and Python to perform various analytical queries and derive insights. The dataset includes information about customers, orders, payments, products, sellers, and geolocation data. The project aims to analyze key business metrics, customer trends, and order patterns.
 
+## Dataset Source
+The dataset used in this project is obtained from Kaggle:
+
+Target Dataset - Kaggle
+
+Since the dataset is large, it is not included in this repository, and users must download it from the provided link.
+
 ## Technologies Used
 Python (Pandas, Matplotlib, Seaborn, MySQL Connector)
 
@@ -29,6 +36,7 @@ geolocation.csv - Geographical mapping of customers and sellers
 
 ## Data Processing Steps
 ### 1] Data Ingestion
+the data 
 CSV files are read using Pandas and stored in MySQL.
 
 Data types are mapped properly (INT, FLOAT, TEXT, etc.).
